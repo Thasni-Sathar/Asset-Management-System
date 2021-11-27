@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "email": "thasni@gmail.com",
+      "password": "$2a$10$47xj.j4sfsmrTYwK3y7L6.iJ3/ihKJEXlhBcxzVByHygHGevvGWoa",
+      "Username": "Thasni",
+      "Usertype": "user",
+      "id": 1
+    },
+    {
+      "email": "abc@123",
+      "password": "$2a$10$FIDV7P59aZ5K/RMGWsQHs..PCg.XE9/HOZYvQ.KQr1U6CWvoIUomG",
+      "first_name": "Anu",
+      "last_name": "Das",
+      "age": "23",
+      "gender": "female",
+      "address": "rose villa",
+      "mobile_no": "7907885580",
+      "cpassword": "anudas",
+      "Usertype": "user",
+      "id": 2
+    },
+    {
+      "email": "arjun@gmail.com",
+      "password": "$2a$10$wlxRnmW/zm.33UuoK1iQbOSpMTVzoWOD2HKWKti0sQtXJJmYuONmm",
+      "first_name": "arjun",
+      "last_name": "s",
+      "age": "23",
+      "gender": "male",
+      "address": "dfgh",
+      "mobile_no": "78546921564",
+      "cpassword": "1234567",
+      "Usertype": "user",
+      "id": 3
+    }
+  ]
+}
